@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "truffle-flattener": "^1.6.0"
+  }
+}
